@@ -43,12 +43,12 @@
     let a = 5;
     let b = 5;
     console.log("5==5",a==b);//true
-    console.log("5!=5",a!=b);//fals
+    console.log("5!=5",a!=b);//false
     console.log("5 >= 5", a >= b);//true
     let x = 5; //number
     let y = "5"; //string -> number
     console. log("x == y", x == y); //true 
-    console. log("x === y", x === y); //fals 
+    console. log("x === y", x === y); //false 
     }
     
     {
