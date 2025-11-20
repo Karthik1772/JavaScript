@@ -48,3 +48,6 @@ console.log("arrowFunc:", regularObj.arrowFunc()); // likely undefined (depends 
  * - Arrow functions are concise and great for short callbacks.
  * - If you need function scoping or `this` bound to the caller, prefer regular functions.
  */
+
+
+// 🔙 [Back to Home](../README.md)
