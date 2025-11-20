@@ -41,7 +41,8 @@ Click on any topic to explore and understand core JavaScript concepts through ex
 - 🌀 [`event-loop-micro-macro.js`](js-notes/advance/event-loop-micro-macro.js) – Event loop, microtasks & macrotasks
 - 🚀 [`hoisting.js`](js-notes/advance/hoisting.js) – Hoisting in JS
 - ⚡ [`arrow-functions.js`](js-notes/advance/arrow-functions.js) – Arrow functions & `this` behavior
-
+- 🚀 [`async-await.js`](js-notes/advance/async-await.js) – Promises (.then(), .catch(), Promise.all, Promise.race)
+- ⚡ [`promises-async-await.js`](js-notes/advance/promises-async-await.js) – async / await (clean async code, try/catch, parallel vs sequential)
 ---
 
 ## 🌐 DOM and Events
