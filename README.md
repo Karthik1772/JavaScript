@@ -24,14 +24,10 @@ Click on a topic to explore and understand core JavaScript concepts through exam
 ## 🧠 Intermediate JavaScript Concepts
 
 - 📦 [`spread-rest.js`](js-notes/intermediate/spread-rest.js) – JavaScript data types and their usage  
-- 🧮 [`varletconst.js`](js-notes/varletconst.js) – Variable declarations and scoping  
-- ➕ [`operators.js`](js-notes/operators.js) – JavaScript operators and expressions  
-- 🧵 [`string.js`](js-notes/string.js) – String manipulation and methods  
-- 📚 [`array.js`](js-notes/array.js) – Array operations and methods  
-- 🔀 [`conditional statments.js`](js-notes/conditional%20statments.js) – Conditional statements and control flow  
-- 🔁 [`looping stament.js`](js-notes/looping%20stament.js) – Loops and iterations  
-- 🔧 [`functions.js`](js-notes/functions.js) – Functions and their different types  
-
+- 🧮 [`destructuring.js`](js-notes/intermediate/destructuring.js) – Variable declarations and scoping  
+- ➕ [`higher_order_array_methods.js`](js-notes/intermediate/higher_order_array_methods.js) – JavaScript operators and expressions  
+- 🧵 [`error-handling.js`](js-notes/intermediate/error-handling.js) – String manipulation and methods  
+- 📚 [`storage.js`](js-notes/intermediate/storage.js) – Array operations and methods  
 ---
 
 ## 🌐 DOM and Events
